@@ -25,4 +25,4 @@ If you have any questions or suggestions, feel free to reach out through our ema
 
 Get ready to run and conquer the endless challenges in JustRun5.1! 🏃‍♂️🏃‍♀️
 
-*Note: This project is just a mechanics proof .*
+*Note: This project is just a mechanics proof.*
